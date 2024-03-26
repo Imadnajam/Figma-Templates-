@@ -24,6 +24,9 @@ Below is a table displaying the available Figma templates along with their links
 | Music| Music themed landing page | [Figma](https://www.figma.com/file/HbQE7KDbfSfqOEowcKz5O1/Untitled?type=design&mode=design)|
 | Landkind| Ethical Supplements for a Healthy World | [Figma](https://www.figma.com/file/NjYWgO6p3w4cziBloi65su/Untitled?type=design&node-id=0-1&mode=design)|
 | Software| Skin care recipes | [Figma](https://www.figma.com/file/VsN4YjXdyWKxixFzs08jXb/Untitled?type=design&node-id=0-1&mode=design)|
+| VISMA| Sea port | [Figma](https://www.figma.com/file/RI1sHoQ1o1EYX7i8ZkM8O8/Templates-%2329.-More-on-d-e-n.info-(Copy)?type=design&node-id=0-1&mode=design)|
+| Webovio|Creative agency| [Figma](https://www.figma.com/file/OxfKGYsr2wkXS9NYG1fyFu/Webovio-(Copy)?type=design&mode=design)|
+| Going| Tourism website | [Figma](https://www.figma.com/file/g6IwhKlEkNbuJIeUkbRP7t/Untitled?type=design&node-id=0-1&mode=design)|
 | #| # | [Figma](#)|
 
 
