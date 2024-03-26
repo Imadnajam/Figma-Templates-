@@ -21,6 +21,10 @@ Below is a table displaying the available Figma templates along with their links
 |--------------------------|-------------------------------------------|---------------------------------------------|
 | Hub Fintech Europe| Clean and modern  design         | [Figma](https://www.figma.com/file/Ps1VrCisBeHd5sAEjrD1Wm/Untitled?type=design&mode=design)|
 | Creative Agency Website  | Vibrant website layout for creative agencies | [Figma](https://www.figma.com/file/BQegpE5smpBbTATjsbxAOE/Untitled?type=design&mode=design)|
+| Music| Music themed landing page | [Figma](https://www.figma.com/file/HbQE7KDbfSfqOEowcKz5O1/Untitled?type=design&mode=design)|
+| Landkind| Ethical Supplements for a Healthy World | [Figma](https://www.figma.com/file/NjYWgO6p3w4cziBloi65su/Untitled?type=design&node-id=0-1&mode=design)|
+| Software| Skin care recipes | [Figma](https://www.figma.com/file/VsN4YjXdyWKxixFzs08jXb/Untitled?type=design&node-id=0-1&mode=design)|
+| #| # | [Figma](#)|
 
 
 Feel free to explore these templates and adapt them to suit your project needs!
