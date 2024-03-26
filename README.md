@@ -19,11 +19,9 @@ Below is a table displaying the available Figma templates along with their links
 
 | Template Name            | Description                               | Link                                        |
 |--------------------------|-------------------------------------------|---------------------------------------------|
-| Minimal Portfolio        | Clean and modern portfolio design         | [Figma](#)                                  |
-| Creative Agency Website  | Vibrant website layout for creative agencies | [Figma](#)                                  |
-| E-commerce Store         | Sleek design for an online store          | [Figma](#)                                  |
-| Personal Blog            | Elegant blog layout with customizable features | [Figma](#)                                  |
-| Landing Page             | Eye-catching landing page design          | [Figma](#)                                  |
+| Hub Fintech Europe| Clean and modern  design         | [Figma](https://www.figma.com/file/Ps1VrCisBeHd5sAEjrD1Wm/Untitled?type=design&mode=design)|
+| Creative Agency Website  | Vibrant website layout for creative agencies | [Figma](https://www.figma.com/file/BQegpE5smpBbTATjsbxAOE/Untitled?type=design&mode=design)|
+
 
 Feel free to explore these templates and adapt them to suit your project needs!
 
