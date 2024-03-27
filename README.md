@@ -31,6 +31,9 @@ Below is a table displaying the available Figma templates along with their links
 | VISMA| Sea port | [Figma](https://www.figma.com/file/RI1sHoQ1o1EYX7i8ZkM8O8/Templates-%2329.-More-on-d-e-n.info-(Copy)?type=design&node-id=0-1&mode=design)|
 | Webovio|Creative agency| [Figma](https://www.figma.com/file/OxfKGYsr2wkXS9NYG1fyFu/Webovio-(Copy)?type=design&mode=design)|
 | Going| Tourism website | [Figma](https://www.figma.com/file/g6IwhKlEkNbuJIeUkbRP7t/Untitled?type=design&node-id=0-1&mode=design)|
+| contact| Mini contact app | [Figma](https://www.figma.com/file/L6yB27lYbyAomXkd9JrXTE/mini-contact-app?type=design&node-id=0-1&mode=design&t=Bbdv0hf5nB9g5Uzg-0)|
+| Gericht| ​Website for the kitchen| [Figma](https://www.figma.com/file/z6q9MeB8uDn18E3anGgISU/Gericht?node-id=509%3A18)|
+| #| # | [Figma](#)|
 | #| # | [Figma](#)|
 
 
