@@ -33,7 +33,8 @@ Below is a table displaying the available Figma templates along with their links
 | Going| Tourism website | [Figma](https://www.figma.com/file/g6IwhKlEkNbuJIeUkbRP7t/Untitled?type=design&node-id=0-1&mode=design)|
 | contact| Mini contact app | [Figma](https://www.figma.com/file/L6yB27lYbyAomXkd9JrXTE/mini-contact-app?type=design&node-id=0-1&mode=design&t=Bbdv0hf5nB9g5Uzg-0)|
 | Gericht| ​Website for the kitchen| [Figma](https://www.figma.com/file/z6q9MeB8uDn18E3anGgISU/Gericht?node-id=509%3A18)|
-| #| # | [Figma](#)|
+| Ya Bao| multi-page website for a Chinese food restaurant | [Figma](https://www.figma.com/file/dJUNZadm19rv8ehGrIR0PD/Ya-Bao?node-id=910%3A0&t=f77MVhl1cT4zzXIn-0)|
+| TuoTown| multi-page website about selling kitchen knives | [Figma](https://www.figma.com/file/SkZ2gpeDGCm44rzyyAtO4T/TuoTown?node-id=0%3A1)|
 | #| # | [Figma](#)|
 
 
