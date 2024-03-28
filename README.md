@@ -38,6 +38,7 @@ Below is a table displaying the available Figma templates along with their links
 | DiveSea| NFT marketplace website | [Figma](https://figma.com/file/LZGy0Wp1cngiLMqozMjimw/DiveSea?type=design&node-id=0-1&mode=design)|
 | Qatalog| Individual operating system for work | [Figma](https://www.figma.com/file/Xe85Ez9CuLBSJjUiWpXbOC/Untitled?node-id=0%3A1&t=dOeParbMye4IG5lN-1)|
 | Flodesk| Emails People Like to Open | [Figma](https://www.figma.com/file/V9IDUVLru3fESGoHiDaWIj/Untitled?node-id=0%3A1&t=dOeParbMye4IG5lN-1)|
+| Y42 Pricing| Mission Control for Your Data Pipelines | [Figma](https://www.figma.com/file/YPZEU9AlxGHVuqO8nRslEh/Untitled?node-id=0%3A1&t=dOeParbMye4IG5lN-1)|
 | #| # | [Figma](#)|
 | #| # | [Figma](#)|
 
