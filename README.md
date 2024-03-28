@@ -3,7 +3,7 @@
 Welcome to our collection of Figma templates for creative website design inspiration!
 
 <p align="center">
-  <img src="https://github.com/Imadnajam/Figma-Templates-/blob/main/logo.jpeg" alt="Logo" width="1000" height="400">
+  <img src="https://github.com/Imadnajam/Figma-Templates-/blob/main/hero.jpeg" alt="Logo" width="1000" height="400">
 </p>
 
 ## Table of Contents
