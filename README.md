@@ -36,8 +36,11 @@ Below is a table displaying the available Figma templates along with their links
 | Ya Bao| multi-page website for a Chinese food restaurant | [Figma](https://www.figma.com/file/dJUNZadm19rv8ehGrIR0PD/Ya-Bao?node-id=910%3A0&t=f77MVhl1cT4zzXIn-0)|
 | TuoTown| multi-page website about selling kitchen knives | [Figma](https://www.figma.com/file/SkZ2gpeDGCm44rzyyAtO4T/TuoTown?node-id=0%3A1)|
 | DiveSea| NFT marketplace website | [Figma](https://figma.com/file/LZGy0Wp1cngiLMqozMjimw/DiveSea?type=design&node-id=0-1&mode=design)|
+| Qatalog| Individual operating system for work | [Figma](https://www.figma.com/file/Xe85Ez9CuLBSJjUiWpXbOC/Untitled?node-id=0%3A1&t=dOeParbMye4IG5lN-1)|
+| Flodesk| Emails People Like to Open | [Figma](https://www.figma.com/file/V9IDUVLru3fESGoHiDaWIj/Untitled?node-id=0%3A1&t=dOeParbMye4IG5lN-1)|
 | #| # | [Figma](#)|
 | #| # | [Figma](#)|
+
 
 
 Feel free to explore these templates and adapt them to suit your project needs!
