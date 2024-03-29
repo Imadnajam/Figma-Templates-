@@ -41,8 +41,11 @@ Below is a table displaying the available Figma templates along with their links
 | Y42 Pricing| Mission Control for Your Data Pipelines | [Figma](https://www.figma.com/file/YPZEU9AlxGHVuqO8nRslEh/Untitled?node-id=0%3A1&t=dOeParbMye4IG5lN-1)|
 |Stay Healthy | website on sports and health | [Figma](https://www.figma.com/file/p4P429IBSTBooqhVPUalob/Stay-Healthy)|
 | QAZSERVICE| laboratory landing page| [Figma](https://www.figma.com/file/DzymlPvsgFZUi1svj9r4Sw/QAZSERVICE-I-Group-(Copy)?node-id=201%3A4144)|
+| Partytrick| Create unforgettable meetings | [Figma](https://www.figma.com/file/9cQhf5I5HaWwhMXM0yKXZd/Untitled?node-id=1%3A717&t=gcdqpUnLDvEApIN3-1)|
+| Ribbon| Winning offers | [Figma](https://www.figma.com/file/9YtQWLdjWAYzefwe2b3ddk/Untitled?node-id=0%3A1&t=LSiQDQADIC6c5cvm-1)|
 | #| # | [Figma](#)|
 | #| # | [Figma](#)|
+
 
 
 
