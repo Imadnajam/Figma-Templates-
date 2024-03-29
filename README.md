@@ -44,9 +44,9 @@ Below is a table displaying the available Figma templates along with their links
 | Partytrick| Create unforgettable meetings | [Figma](https://www.figma.com/file/9cQhf5I5HaWwhMXM0yKXZd/Untitled?node-id=1%3A717&t=gcdqpUnLDvEApIN3-1)|
 | Ribbon| Winning offers | [Figma](https://www.figma.com/file/9YtQWLdjWAYzefwe2b3ddk/Untitled?node-id=0%3A1&t=LSiQDQADIC6c5cvm-1)|
 | Visual| Platform for designers | [Figma](https://www.figma.com/file/STw0jYVgfo7zgnWQXAmS0G/Untitled?node-id=0%3A1&t=FARlSqKZdbPHm2O0-1)|
+| Duffel| Airline ticket sales | [Figma](https://www.figma.com/file/GJ7zMtbI610vbvWCP0aTuW/Untitled?node-id=0%3A1&t=FARlSqKZdbPHm2O0-a)|
 | #| # | [Figma](#)|
 | #| # | [Figma](#)|
-
 
 
 
