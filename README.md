@@ -45,6 +45,8 @@ Below is a table displaying the available Figma templates along with their links
 | Ribbon| Winning offers | [Figma](https://www.figma.com/file/9YtQWLdjWAYzefwe2b3ddk/Untitled?node-id=0%3A1&t=LSiQDQADIC6c5cvm-1)|
 | Visual| Platform for designers | [Figma](https://www.figma.com/file/STw0jYVgfo7zgnWQXAmS0G/Untitled?node-id=0%3A1&t=FARlSqKZdbPHm2O0-1)|
 | Duffel| Airline ticket sales | [Figma](https://www.figma.com/file/GJ7zMtbI610vbvWCP0aTuW/Untitled?node-id=0%3A1&t=FARlSqKZdbPHm2O0-a)|
+| Packhelp| Custom packaging, design and online ordering | [Figma](https://www.figma.com/file/katnBYTboreyzYheD2cLf9/Untitled?node-id=0%3A1&t=gcdqpUnLDvEApIN3-1)|
+| #| # | [Figma](#)|
 | #| # | [Figma](#)|
 | #| # | [Figma](#)|
 
