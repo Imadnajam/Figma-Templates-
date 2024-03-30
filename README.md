@@ -47,10 +47,9 @@ Below is a table displaying the available Figma templates along with their links
 | Duffel| Airline ticket sales | [Figma](https://www.figma.com/file/GJ7zMtbI610vbvWCP0aTuW/Untitled?node-id=0%3A1&t=FARlSqKZdbPHm2O0-a)|
 | Packhelp| Custom packaging, design and online ordering | [Figma](https://www.figma.com/file/katnBYTboreyzYheD2cLf9/Untitled?node-id=0%3A1&t=gcdqpUnLDvEApIN3-1)|
 |Denario| Automated bill payment platform | [Figma](https://www.figma.com/file/o2WgUWCblNBvWiHkIQC7Rd/Untitled?node-id=0%3A1&t=gcdqpUnLDvEApIN3-1)|
+|intouch| Site de commerce mobile | [Figma](https://www.figma.com/file/lJwh1d0uiXlx31YztrLYov/Untitled?node-id=0%3A1&t=gcdqpUnLDvEApIN3-1)|
 | #| # | [Figma](#)|
 | #| # | [Figma](#)|
-
-
 
 Feel free to explore these templates and adapt them to suit your project needs!
 
