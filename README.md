@@ -48,9 +48,9 @@ Below is a table displaying the available Figma templates along with their links
 | Packhelp| Custom packaging, design and online ordering | [Figma](https://www.figma.com/file/katnBYTboreyzYheD2cLf9/Untitled?node-id=0%3A1&t=gcdqpUnLDvEApIN3-1)|
 |Denario| Automated bill payment platform | [Figma](https://www.figma.com/file/o2WgUWCblNBvWiHkIQC7Rd/Untitled?node-id=0%3A1&t=gcdqpUnLDvEApIN3-1)|
 |intouch| Site de commerce mobile | [Figma](https://www.figma.com/file/lJwh1d0uiXlx31YztrLYov/Untitled?node-id=0%3A1&t=gcdqpUnLDvEApIN3-1)|
+| NUENO| Digital fashion | [Figma](https://www.figma.com/file/kXNiS5Ae5P3mfa7KmvpELi/Untitled?node-id=0%3A1&t=bEbgOdoa9XeIXljD-1)|
 | #| # | [Figma](#)|
 | #| # | [Figma](#)|
-
 Feel free to explore these templates and adapt them to suit your project needs!
 
 ## How to Use
