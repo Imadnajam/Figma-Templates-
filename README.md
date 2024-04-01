@@ -51,6 +51,10 @@ Below is a table displaying the available Figma templates along with their links
 | NUENO| Digital fashion | [Figma](https://www.figma.com/file/kXNiS5Ae5P3mfa7KmvpELi/Untitled?node-id=0%3A1&t=bEbgOdoa9XeIXljD-1)|
 | #| # | [Figma](#)|
 | #| # | [Figma](#)|
+| #| # | [Figma](#)|
+
+
+
 Feel free to explore these templates and adapt them to suit your project needs!
 
 ## How to Use
