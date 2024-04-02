@@ -49,6 +49,7 @@ Below is a table displaying the available Figma templates along with their links
 |Denario| Automated bill payment platform | [Figma](https://www.figma.com/file/o2WgUWCblNBvWiHkIQC7Rd/Untitled?node-id=0%3A1&t=gcdqpUnLDvEApIN3-1)|
 |intouch| Site de commerce mobile | [Figma](https://www.figma.com/file/lJwh1d0uiXlx31YztrLYov/Untitled?node-id=0%3A1&t=gcdqpUnLDvEApIN3-1)|
 | NUENO| Digital fashion | [Figma](https://www.figma.com/file/kXNiS5Ae5P3mfa7KmvpELi/Untitled?node-id=0%3A1&t=bEbgOdoa9XeIXljD-1)|
+|1000things Wanderei|Blog sur les voyages| [Figma](https://www.figma.com/file/bX47txCw1eXMRqOCwY94Ee/Untitled?node-id=0%3A1&t=kcRrly2Oqw8ywgIB-1)|
 | #| # | [Figma](#)|
 | #| # | [Figma](#)|
 | #| # | [Figma](#)|
