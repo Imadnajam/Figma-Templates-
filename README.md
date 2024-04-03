@@ -52,7 +52,6 @@ Below is a table displaying the available Figma templates along with their links
 |1000things Wanderei|Blog sur les voyages| [Figma](https://www.figma.com/file/bX47txCw1eXMRqOCwY94Ee/Untitled?node-id=0%3A1&t=kcRrly2Oqw8ywgIB-1)|
 |blog| Introduction à mesurer ce qui compte par John Doerr | [Figma](https://www.figma.com/file/hwKhxqeBPLu2gIuJY12t6e/Untitled?node-id=0%3A1&t=kcRrly2Oqw8ywgIB-1)|
 | #| # | [Figma](#)|
-| #| # | [Figma](#)|
 
 
 
