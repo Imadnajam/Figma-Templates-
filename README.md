@@ -51,11 +51,11 @@ Below is a table displaying the available Figma templates along with their links
 | NUENO| Digital fashion | [Figma](https://www.figma.com/file/kXNiS5Ae5P3mfa7KmvpELi/Untitled?node-id=0%3A1&t=bEbgOdoa9XeIXljD-1)|
 |1000things Wanderei|Blog sur les voyages| [Figma](https://www.figma.com/file/bX47txCw1eXMRqOCwY94Ee/Untitled?node-id=0%3A1&t=kcRrly2Oqw8ywgIB-1)|
 |blog| Introduction à mesurer ce qui compte par John Doerr | [Figma](https://www.figma.com/file/hwKhxqeBPLu2gIuJY12t6e/Untitled?node-id=0%3A1&t=kcRrly2Oqw8ywgIB-1)|
-| Ciao| Service| [Figma](https://www.figma.com/file/9XQ5waJMtD0x3yi2bTAxEn/Untitled?node-id=0%3A1&t=Uydwtxb5PnowRdW5-1)|
+|Ciao| Service| [Figma](https://www.figma.com/file/9XQ5waJMtD0x3yi2bTAxEn/Untitled?node-id=0%3A1&t=Uydwtxb5PnowRdW5-1)|
 |Bario Neal|Jewelry to order| [Figma](https://www.figma.com/file/qbOEqIwqLb6f3NEbjQ9s25/Untitled?node-id=0%3A1&t=Uydwtxb5PnowRdW5-1)|
+|Betterway| LandingPage | [Figma](https://www.figma.com/file/qABXOsOcvpDRXid8LU37MR/Untitled?node-id=0%3A1&t=IXFaAXuNTCvZys5z-1)|
 | #| # | [Figma](#)|
 | #| # | [Figma](#)|
-
 
 
 
