@@ -55,7 +55,7 @@ Below is a table displaying the available Figma templates along with their links
 |Bario Neal|Jewelry to order| [Figma](https://www.figma.com/file/qbOEqIwqLb6f3NEbjQ9s25/Untitled?node-id=0%3A1&t=Uydwtxb5PnowRdW5-1)|
 |Betterway| LandingPage | [Figma](https://www.figma.com/file/qABXOsOcvpDRXid8LU37MR/Untitled?node-id=0%3A1&t=IXFaAXuNTCvZys5z-1)|
 |Art Director| Designer's website | [Figma](https://www.figma.com/file/DVhK81YY481rOpQIscPbVv/Untitled?node-id=0%3A1&t=Uydwtxb5PnowRdW5-1)|
-| #| # | [Figma](#)|
+|Lasting memories|Landing page for interior design studio| [Figma](https://www.figma.com/file/3NFRgEjAATOm8buh9Gu5FU/Untitled?node-id=0%3A1&t=IXFaAXuNTCvZys5z-1)|
 | #| # | [Figma](#)|
 
 
